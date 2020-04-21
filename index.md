@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Osmond's Pages
 
 You can use the [editor on GitHub](https://github.com/osmondli/osmondli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Linkedln
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You are welcome to connect with me through Linkedln. 
+For more details see (https://www.linkedin.com/in/osmond-li-b821325/).
 
 ### Jekyll Themes
 
