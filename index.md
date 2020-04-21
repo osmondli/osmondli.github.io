@@ -5,12 +5,12 @@ You can use the [editor on GitHub](https://github.com/osmondli/osmondli.github.i
 ### Linkedln 
 
 You are welcome to connect with me through Linkedln. 
-For more details see (https://www.linkedin.com/in/osmond-li-b821325/).
+For more details see [Linkedln] (https://www.linkedin.com/in/osmond-li-b821325/).
 
 ### Facebook 
 
 You are welcome to connect with me through Facebook. 
-For more details see (https://www.facebook.com/osmond.li.52).
+For more details see [Facebook] (https://www.facebook.com/osmond.li.52).
 
 ### Support or Contact
 
